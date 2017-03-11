@@ -1,14 +1,12 @@
-# Building our Bot
+# Mission 2: Building the bot and getting news
 
-The bot we made in Mission 1 currently doesn't do much. In this part, we'll be building out the logic of our bot so it actually starts being useful and gives us news. 
+The bot we made in Mission 1 currently doesn't do much. In this part, we'll be building out the logic of our bot and enabling it to retrieve news from Earth, so that we can keep up to date with current affairs.
 
-## Mission 2: Get News
-
-### Setting up LUIS
+## Natural Language
 
 Before starting on this tutorial, we first need to make our bot understand natural language. Follow this [tutorial](LUIS.MD) to make your bot work with LUIS.
 
-### After setting up LUIS
+## Mission
 
 We're moving on to more complex stuff now. Let's try fetching news based on category so we can stay updated with civilisation.
 

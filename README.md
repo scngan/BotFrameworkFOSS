@@ -1,5 +1,7 @@
 #Microsoft Bot Framework Hands-On Lab: Mars Challenge
 
+Your space crew has been stranded on Mars with no way to contact back the team on Earth. Let's build some tools to help them out!
+
 This is a hands-on-lab with the objective of building a bot that has multiple functions and deploying it to Azure for communication.
 
 We will be using the Microsoft Bot Framework NodeJS SDK to build the bot web service and utilize some NPMs and open source SDKs along with Cognitive Services APIs.

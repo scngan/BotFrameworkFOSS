@@ -1,4 +1,10 @@
-#Setting up the bot with Microsoft Bot Framework
+# Mission 1: Setting up the bot with Microsoft Bot Framework
+
+## Introduction
+
+First, we need to lay out the foundation for our bot, which will be used to access all our tools.
+
+## Mission
 
 This part has been largely based off the setup documented by Microsoft [here](https://docs.botframework.com/en-us/node/builder/overview/#navtitle), but I've added a bit more detail. 
 
